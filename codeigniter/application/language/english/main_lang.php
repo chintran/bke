@@ -1,0 +1,21 @@
+<?php
+$lang['welcome_title'] = 'Welcome to <span style="color:#FFFE00">BKE</span>';
+$lang['language_name'] = 'Language';
+$lang['solution_customer'] = 'Solution for customer';
+$lang['customer_talk'] = 'Deploying Project';
+$lang['customer_partner'] ='Customer/Partner';
+$lang['contact_info'] ='Contact Info';
+$lang['phone'] ='Phone';
+$lang['address'] ='Address';
+$lang['fax'] ='Fax';
+$lang['email'] ='Email';
+$lang['web'] ='Web';
+$lang['relate_project'] ='Other Project';
+$lang['feature'] ='Features';
+$lang['tab_introduce'] ='Introduce';
+$lang['tab_specifications'] ='Specifications';
+$lang['tab_principle_operating'] ='Operating Principle';
+$lang['tab_download'] ='Download';
+$lang['title_home'] ='Welcome to bke company';
+$lang['company_title'] ='Solar bach khoa ho chi minh company';
+$lang['lbl_sign_in'] = 'Login';

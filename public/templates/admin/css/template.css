@@ -1,0 +1,90 @@
+
+.clear{
+	clear: both;
+}
+.table {
+    font-size: 14px;
+}
+a.fa.font20{
+	font-size: 20px;
+}
+.bootstrap-tagsinput {
+    width: 100%;
+}
+ul.sortable li{
+	cursor: move;
+}
+html.wait, html.wait * { cursor: wait !important; }
+#wrap_login {
+	max-width: 320px;
+	text-align: center;
+	margin: 0 auto; 
+}
+#wrap_login h1{
+	color: #2241B3;
+}
+#page-wrapper{
+	min-height: 100%;
+}
+.bound_control{
+	margin-bottom: 20px;
+}
+#wrap_competition_quiz ul.quizzes{
+	padding: 0; list-style: none; margin: 0;
+}
+#wrap_competition_quiz ul.quizzes li{
+	padding: 5px 0; margin: 0; border-bottom:1px solid #ccc; 
+	line-height: 30px;
+}
+#wrap_competition_quiz .quizzes a.fa{
+	font-size: 25px;
+	text-decoration: none;
+}
+
+#wrap_competition_quiz .quizzes a.add:before{
+    content: "\f055";
+}
+#wrap_competition_quiz .quizzes a.remove:before{
+    content: "\f056";
+}
+#wrap_competition_quiz .quizzes a.remove{
+	color: orange;
+}
+#wrap_competition_quiz .quizzes a.remove:hover{
+	color: #BF800D;
+}
+#wrap_programming_form .template_program .remove{
+	 position: relative;
+}
+#wrap_programming_form .template_program select,
+.bound_testcase .input_testcase{
+	padding: 4px;
+    margin: 0 0 6px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+.bound_testcase .input_testcase{
+	display: block; width: 100%;
+}
+
+#wrap_programming_form .template_program .remove a{
+	margin-left: 5px;
+}
+#wrap_programming_form .template_program .remove a:after{
+	content: "\f146";
+	font: normal normal normal 14px/1 FontAwesome;
+	display: inline-block;
+	position: relative;
+}
+
+#wrap_login > h3 {
+	color: #2241B3;
+}
+
+.support_info{
+	width: 40%;
+	margin: auto;
+}
+.support_info p{
+	text-align: center;
+}

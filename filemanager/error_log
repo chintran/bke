@@ -1,0 +1,12 @@
+[05-Jul-2016 10:11:15 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../public/upload/images/cac-tam-pin-mat-troi-hoat-dong-nhu-the-nao.png is missing or invalid' in /Data/CPanelData/home/suabanmaytinh/public_html/solarbks.com/bks/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /Data/CPanelData/home/suabanmaytinh/public_html/solarbks.com/bks/filemanager/include/utils.php(218): imageLib->resizeImage(122, 91, 'crop')
+#1 /Data/CPanelData/home/suabanmaytinh/public_html/solarbks.com/bks/filemanager/upload.php(93): create_img('../public/uploa...', '../public/uploa...', 122, 91)
+#2 {main}
+  thrown in /Data/CPanelData/home/suabanmaytinh/public_html/solarbks.com/bks/filemanager/include/php_image_magician.php on line 346
+[05-Jul-2016 10:12:05 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../public/upload/images/cac-tam-pin-mat-troi-hoat-dong-nhu-the-nao_1.png is missing or invalid' in /Data/CPanelData/home/suabanmaytinh/public_html/solarbks.com/bks/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /Data/CPanelData/home/suabanmaytinh/public_html/solarbks.com/bks/filemanager/include/utils.php(218): imageLib->resizeImage(122, 91, 'crop')
+#1 /Data/CPanelData/home/suabanmaytinh/public_html/solarbks.com/bks/filemanager/upload.php(93): create_img('../public/uploa...', '../public/uploa...', 122, 91)
+#2 {main}
+  thrown in /Data/CPanelData/home/suabanmaytinh/public_html/solarbks.com/bks/filemanager/include/php_image_magician.php on line 346

@@ -1,0 +1,25 @@
+<?php
+$lang['welcome_title'] = 'Chào mừng Quý khách đến với <span style="color:#FFFE00">BKE</span>';
+$lang['language_name'] = 'Ngôn ngữ';
+$lang['solution_customer'] = 'Giải pháp toàn diện';
+$lang['customer_talk'] = 'Dự án đang triển khai';
+$lang['customer_partner'] ='Đối tác - khách hàng';
+$lang['contact_info'] ='Thông tin liên hệ';
+$lang['phone'] ='Điện thoại';
+$lang['address'] ='Địa chỉ giao dịch';
+$lang['fax'] ='Fax';
+$lang['email'] ='Email';
+$lang['web'] ='Web';
+$lang['relate_project'] ='Dự án khác';
+$lang['feature'] ='Đặc điểm';
+$lang['tab_introduce'] ='Giới thiệu';
+$lang['tab_specifications'] ='Thông số kỹ thuật';
+$lang['tab_principle_operating'] ='Nguyên lý hoạt động';
+$lang['tab_download'] ='Download';
+$lang['title_home'] ='Công ty máy nước nóng năng lượng mặt trời';
+$lang['company_title'] ='Công ty máy nước nóng năng lượng mặt trời';
+$lang['lbl_sign_in'] = 'Đăng Nhập';
+$lang['lbl_email'] = 'Địa chỉ mail';
+$lang['lbl_password'] = 'Mật khẩu';
+$lang['txt_enter_email'] = 'Nhập email';
+$lang['txt_enter_password'] = 'Nhập mật khẩu';
